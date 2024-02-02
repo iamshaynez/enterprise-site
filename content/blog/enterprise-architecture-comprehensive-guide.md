@@ -1,7 +1,7 @@
 ---
-title: "Enterprise Architecture: A Comprehensive Guide to Concepts and Industry Practices"
-description: "A comprehensive guide covering the key concepts, frameworks, tools, and real-world applications of Enterprise Architecture - an essential business discipline for aligning technology and strategy to drive efficiency, innovation and growth."
-summary: "A comprehensive guide covering the key concepts, frameworks, tools, and real-world applications of Enterprise Architecture - an essential business discipline for aligning technology and strategy to drive efficiency, innovation and growth.."
+title: "Enterprise Architecture: A Comprehensive Guide"
+description: "A comprehensive guide covering the key concepts, frameworks, tools, and real-world applications of Enterprise Architecture - an essential business discipline for aligning technology and strategy to drive efficiency."
+summary: "A comprehensive guide covering the key concepts, frameworks, tools, and real-world applications of Enterprise Architecture - an essential business discipline for aligning technology and strategy to drive efficiency."
 date: 2024-01-01T16:27:22+02:00
 lastmod: 2024-01-01T16:27:22+02:00
 draft: false
@@ -12,9 +12,9 @@ contributors: []
 pinned: false
 homepage: false
 seo:
-  title: "Enterprise Architecture: A Comprehensive Guide to Concepts and Industry Practices" # custom title (optional)
-  description: "A comprehensive guide covering the key concepts, frameworks, tools, and real-world applications of Enterprise Architecture - an essential business discipline for aligning technology and strategy to drive efficiency, innovation and growth." # custom description (recommended)
-  canonical: "enterprise-architecture-comprehensive-guide-concepts-frameworks-tools" # custom canonical URL (optional)
+  #title: "Enterprise Architecture: A Comprehensive Guide to Concepts and Industry Practices" # custom title (optional)
+  description: "A comprehensive guide covering the key concepts, frameworks, tools, and real-world applications of Enterprise Architecture - an essential business discipline for aligning technology and strategy to drive efficiency." # custom description (recommended)
+  canonical: "enterprise-architecture-comprehensive-guide" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
 
