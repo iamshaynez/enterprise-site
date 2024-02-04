@@ -36,7 +36,7 @@ It is at this juncture that EAM comes into play, aiming to bridge the divide bet
 
 Imagine this: In software engineering, we start by understanding business requirements and then develop a system to meet those needs. Enterprise Architecture (EA), however, takes a wider lens, considering the entire company rather than a single IT system. To illustrate, let's compare EA to town planning. Just as every software system is made up of interrelated modules, a town consists of interconnected infrastructures. But EA introduces a new perspective.
 
-#### Enterprise Architecture vs. Software Architecture
+### Enterprise Architecture vs. Software Architecture
 
 ![Enterprise Architecture vs. Software Architecture](https://cdn.sa.net/2024/02/03/JwDE1srqWXIRK6H.png)
 
@@ -46,11 +46,11 @@ Software architects focus on the specifics of a system: implementation details, 
 
 In a large city, town planning may involve collaboration with district representatives, similar to how corporate IT could be segmented into domains like customer relations, production, and finance IT. Each domain is specialized, yet part of the broader corporate structure.
 
-#### The Details Matter
+### The Details Matter
 
 The software architect's role is deeply detailed, from the location of doors and windows to the color of walls. These are inconsequential to the town planner, whose concern is the city's infrastructure. Similarly, the Enterprise Architect maintains a high-level perspective, distinct from the software architect's detailed focus when crafting a software system.
 
-#### Commonalities and Differences in Town Planning and EAM
+### Commonalities and Differences in Town Planning and EAM
 
 ![Differences in Town Planning and EAM](https://cdn.sa.net/2024/02/03/Ky7fUJ6S3QFDPZY.png)
 
@@ -58,6 +58,6 @@ Complex systems like a town or a corporate IT landscape share common ground: the
 
 However, software applications present unique challenges. They're intangible and their interconnections often invisible, making it difficult to grasp their complexity or explain their dependencies. Moreover, IT's role in business is often underestimated, seen as a mere support function rather than integral to business strategy.
 
-#### Bridging Gaps and Taking Responsibility
+### Bridging Gaps and Taking Responsibility
 
 The final hurdle is the business-IT divide. Software systems are used in business, yet business stakeholders frequently shirk responsibility for them. IT is tasked with maintenance and change management without true business ownership. Overcoming this requires a change in mindset, recognizing the business relevance of each IT system and establishing clear business ownership for decision-making.
