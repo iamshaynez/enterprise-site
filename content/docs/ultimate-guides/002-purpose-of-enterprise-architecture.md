@@ -1,5 +1,5 @@
 ---
-title: "Purposes of Enterprise Architecture"
+title: "Chapter 1.2 - Purposes of Enterprise Architecture"
 description: "What makes the concept of benefits and addressing issues so crucial? Introducing a new method into an organization must bring advantages, and this is equally true for Enterprise Architecture (EA)"
 summary: "What makes the concept of benefits and addressing issues so crucial? Introducing a new method into an organization must bring advantages, and this is equally true for Enterprise Architecture (EA)"
 date: 2024-01-01T16:04:48+02:00
@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 120
+weight: 111
 toc: true
 seo:
   title: "Purposes of Enterprise Architecture" # custom title (optional)

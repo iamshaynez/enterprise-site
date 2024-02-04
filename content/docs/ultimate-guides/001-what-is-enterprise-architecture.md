@@ -1,5 +1,5 @@
 ---
-title: "Introduction of enterprise architecture"
+title: "Chapter 1.1 - Introduction of enterprise architecture"
 description: "The fundamental concept of Enterprise Architecture Management (EAM) in a glance."
 summary: "The fundamental concept of Enterprise Architecture Management (EAM) in a glance."
 date: 2024-01-01T16:04:48+02:00
