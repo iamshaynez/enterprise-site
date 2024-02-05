@@ -1,5 +1,5 @@
 ---
-title: "Chatper 2.1 - Business Capability Mapping Guide"
+title: "Chatper 2.2 - Business Capability Mapping Guide"
 description: "Business capabilities Guide, BCM are foundational elements within the business architecture."
 summary: "Business capabilities Guide, BCM are foundational elements within the business architecture."
 date: 2024-01-01T16:04:48+02:00
@@ -12,7 +12,7 @@ menu:
 weight: 122
 toc: true
 seo:
-  title: "Chatper 2.1 - Business Capability Mapping Guide" # custom title (optional)
+  title: "Chatper 2.2 - Business Capability Mapping Guide" # custom title (optional)
   description: "Business capabilities Guide, BCM are foundational elements within the business architecture." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
