@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 142
+weight: 152
 toc: true
 seo:
   title: "Chatper 5.2 - Role and Organizational Structure of Enterprise Architects" # custom title (optional)

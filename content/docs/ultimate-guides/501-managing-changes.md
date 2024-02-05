@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 142
+weight: 151
 toc: true
 seo:
   title: "Chatper 5.1 - Managing Changes of Enterprise Architecture" # custom title (optional)
