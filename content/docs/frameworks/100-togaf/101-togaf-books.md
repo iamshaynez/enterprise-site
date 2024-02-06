@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 100
+weight: 101
 toc: true
 seo:
   title: "TOGAF - Books Recommended" # custom title (optional)
@@ -100,3 +100,6 @@ Remember, it's not always about playing by the book. LOL
 
 > Find on [Amazon](https://www.amazon.com/TOGAF-NOT-Framework-Inconvenient-Pragmatic-ebook/dp/B07CWGTGHX/ref=sr_1_14?crid=W3I44DGH1KHB&keywords=TOGAF&qid=1707181832&s=digital-text&sprefix=togaf%2Cdigital-text%2C383&sr=1-14)
 
+## Reference
+
+- [Best TOGAF books recommended in all time!](/blog/best-togaf-books-recommended-in-all-time/)
