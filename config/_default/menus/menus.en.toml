@@ -40,7 +40,7 @@
   weight = 30
 
 [[main]]
-  name = "Subscribe"
+  name = "Subscribe RSS"
   url = "/blog/index.xml"
   weight = 40
 
