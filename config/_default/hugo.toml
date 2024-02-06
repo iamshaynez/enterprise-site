@@ -42,7 +42,7 @@ copyRight = "Copyright (c) 2020-2024 Enterprise Architecture Work"
   rel  = "sitemap"
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "daily"
   filename = "sitemap.xml"
   priority = 0.5
 
