@@ -48,18 +48,18 @@ While these elements reflect an internal perspective, it's crucial to integrate 
 - **Resources**: Both tangible (physical assets) and intangible (information) resources needed for business operations.
 - **Control Mechanisms**: Systems for monitoring process performance, ensuring compliance, and evaluating business success.
 
-![Business Architecture Concepts]([image-link-here](https://cdn.sa.net/2024/02/05/jxi9zmUGl3DOZoB.png))
+![Business Architecture Concepts](https://cdn.sa.net/2024/02/05/jxi9zmUGl3DOZoB.png)
 
 Figure above includes the concept of business capability, though Daniel Simon offers an alternative interpretation of this term.
 
-![Business Motivation]([image-link-here](https://cdn.sa.net/2024/02/05/xZMYcqt72ldGby5.png))
+![Business Motivation](https://cdn.sa.net/2024/02/05/xZMYcqt72ldGby5.png)
 
 Figure above clarifies the interplay between drivers, vision, and the formulation of SMART objectives—those that are Specific, Measurable, Achievable, Relevant, and Time-Bound.
 
-![Business Model]([image-link-here](https://cdn.sa.net/2024/02/05/QaIUnZ2tPKxd7GJ.png))
+![Business Model](https://cdn.sa.net/2024/02/05/QaIUnZ2tPKxd7GJ.png)
 
 Figure above illustrates the business model components, emphasizing the significance of the value proposition, understanding customer segments, outlining value chain steps, and linking them to end-to-end processes within an operational framework.
 
-![Business Execution]([image-link-here](https://cdn.sa.net/2024/02/05/FWpbrt4M1SB73Do.png))
+![Business Execution](https://cdn.sa.net/2024/02/05/FWpbrt4M1SB73Do.png)
 
 Lastly, Figure above delves into the business execution layer, familiar from IT-centric education, highlighting the role of information, organizational structure, roles, resources, and control in the effective operation of business processes.
