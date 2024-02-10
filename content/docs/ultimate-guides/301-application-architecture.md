@@ -42,7 +42,7 @@ Chapter 1 presented tools like process maps to visualize business operations. He
 ### Visualizing Application Landscapes
 An application landscape example is depicted in Figure below, where four systems exchange data through business objects linked to their connecting lines. The direction of data flow is indicated by arrowheads.
 
-![Application landscape with data flow]([#](https://cdn.sa.net/2024/02/05/Txp8hXnSRQHB3j2.png))
+![Application landscape with data flow](https://cdn.sa.net/2024/02/05/Txp8hXnSRQHB3j2.png)
 
 For instance, the CRM system, salesforce.com, supplies customer data to both a transport management system and a customer service system.
 
@@ -50,7 +50,7 @@ For instance, the CRM system, salesforce.com, supplies customer data to both a t
 
 Remember the organizational map from Figure below? It assigns applications to specific organizational units across global headquarters and regional subsidiaries in Europe and Asia-Pacific. This map helps identify software redundancies or common systems, hinting at the complexity when subsidiaries independently procure IT.
 
-![Application landscape in organizational context]([#](https://cdn.sa.net/2024/02/05/LbmUd7NErJgx21q.png))
+![Application landscape in organizational context](https://cdn.sa.net/2024/02/05/LbmUd7NErJgx21q.png)
 
 ### The Complexity of Real-World Landscapes
 Real-world application landscapes are typically extensive and intricate. While textbook examples are simplified to illustrate concepts, they are far from the scale of actual enterprise landscapes. This is exemplified in Figure below.
