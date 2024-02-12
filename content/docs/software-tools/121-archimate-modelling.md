@@ -10,7 +10,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 121
+weight: 321
 toc: true
 seo:
   title: "ArchiMate: An Enterprise Architecture Modeling Tool" # custom title (optional)

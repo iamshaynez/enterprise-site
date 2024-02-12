@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 130
+weight: 230
 toc: true
 seo:
   title: "Gartner's Enterprise Architecture Framework" # custom title (optional)

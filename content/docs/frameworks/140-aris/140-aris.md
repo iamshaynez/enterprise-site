@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 140
+weight: 240
 toc: true
 seo:
   title: "ARIS from SoftwareAG" # custom title (optional)

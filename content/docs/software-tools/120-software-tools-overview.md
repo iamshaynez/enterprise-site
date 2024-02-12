@@ -10,7 +10,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 120
+weight: 320
 toc: true
 seo:
   title: "Enterprise Architecture Software Tools" # custom title (optional)

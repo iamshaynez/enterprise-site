@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 100
+weight: 200
 toc: true
 seo:
   title: "TOGAF - The Open Group Architecture Framework" # custom title (optional)

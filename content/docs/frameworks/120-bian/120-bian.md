@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 120
+weight: 220
 toc: true
 seo:
   title: "BIAN - Banking Industry Architecture Network" # custom title (optional)

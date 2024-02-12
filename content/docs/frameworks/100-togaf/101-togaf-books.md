@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 101
+weight: 202
 toc: true
 seo:
   title: "TOGAF - Books Recommended" # custom title (optional)
