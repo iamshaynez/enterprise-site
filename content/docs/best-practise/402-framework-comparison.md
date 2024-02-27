@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: ""
-weight: 299
+weight: 402
 toc: true
 slug: "business-architecture-frameworks-comparison-togaf-archimate-zachman"
 seo:
