@@ -1,22 +1,19 @@
 ---
-title: "TOGAF - Books Recommended"
-description: "The best TOGAF Books recommended in all time, with Amazon Links attached."
-summary: "The best TOGAF Books recommended in all time, with Amazon Links attached."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: TOGAF - Books Recommended
+description: The best TOGAF Books recommended in all time, with Amazon Links attached.
+summary: The best TOGAF Books recommended in all time, with Amazon Links attached.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 202
 toc: true
-seo:
-  title: "TOGAF - Books Recommended" # custom title (optional)
-  description: "The best TOGAF Books recommended in all time, with Amazon Links attached.." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: togaf-books-recommended
 ---
+
 
 ## TOGAF Books
 

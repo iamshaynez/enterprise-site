@@ -1,22 +1,25 @@
 ---
-title: "Chatper 3.4 - Data Architecture Overview"
-description: "Explore the integration of data architecture within enterprise architecture, covering business processes, application relationships, and technology implementation. Understand the significance of business objects and data models in aligning software development with business concepts."
-summary: "Explore the integration of data architecture within enterprise architecture, covering business processes, application relationships, and technology implementation. Understand the significance of business objects and data models in aligning software development with business concepts."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 3.4 - Data Architecture Overview
+description: Explore the integration of data architecture within enterprise architecture,
+  covering business processes, application relationships, and technology implementation.
+  Understand the significance of business objects and data models in aligning software
+  development with business concepts.
+summary: Explore the integration of data architecture within enterprise architecture,
+  covering business processes, application relationships, and technology implementation.
+  Understand the significance of business objects and data models in aligning software
+  development with business concepts.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 134
 toc: true
-seo:
-  title: "Chatper 3.4 - Data Architecture Overview" # custom title (optional)
-  description: "Explore the integration of data architecture within enterprise architecture, covering business processes, application relationships, and technology implementation. Understand the significance of business objects and data models in aligning software development with business concepts." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-34-data-architecture-overview
 ---
+
 
 ## Data Architecture Overview
 

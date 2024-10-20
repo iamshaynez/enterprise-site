@@ -1,22 +1,29 @@
 ---
-title: "Chatper 6.1 - Executive Summary"
-description: "Explore the foundational concepts of Enterprise Architecture Management (EAM) with our comprehensive guide. Understand the value of EAM, delve into Business and Application Architecture, discover optimization tools, and learn how to manage change effectively. Get familiar with frameworks like TOGAF and tailor best practices to your organization's needs. Start your journey in enterprise architecture and drive meaningful organizational value."
-summary: "Explore the foundational concepts of Enterprise Architecture Management (EAM) with our comprehensive guide. Understand the value of EAM, delve into Business and Application Architecture, discover optimization tools, and learn how to manage change effectively. Get familiar with frameworks like TOGAF and tailor best practices to your organization's needs. Start your journey in enterprise architecture and drive meaningful organizational value."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 6.1 - Executive Summary
+description: Explore the foundational concepts of Enterprise Architecture Management
+  (EAM) with our comprehensive guide. Understand the value of EAM, delve into Business
+  and Application Architecture, discover optimization tools, and learn how to manage
+  change effectively. Get familiar with frameworks like TOGAF and tailor best practices
+  to your organization's needs. Start your journey in enterprise architecture and
+  drive meaningful organizational value.
+summary: Explore the foundational concepts of Enterprise Architecture Management (EAM)
+  with our comprehensive guide. Understand the value of EAM, delve into Business and
+  Application Architecture, discover optimization tools, and learn how to manage change
+  effectively. Get familiar with frameworks like TOGAF and tailor best practices to
+  your organization's needs. Start your journey in enterprise architecture and drive
+  meaningful organizational value.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 161
 toc: true
-seo:
-  title: "Chatper 6.1 - Executive Summary" # custom title (optional)
-  description: "Explore the foundational concepts of Enterprise Architecture Management (EAM) with our comprehensive guide. Understand the value of EAM, delve into Business and Application Architecture, discover optimization tools, and learn how to manage change effectively. Get familiar with frameworks like TOGAF and tailor best practices to your organization's needs. Start your journey in enterprise architecture and drive meaningful organizational value." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-61-executive-summary
 ---
+
 
 ## Executive Summary
 

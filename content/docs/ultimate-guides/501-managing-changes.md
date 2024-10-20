@@ -1,22 +1,27 @@
 ---
-title: "Chatper 5.1 - Managing Changes of Enterprise Architecture"
-description: "Explore key changes in Enterprise Architecture (EA) management, including organizational restructuring, business process adaptation, and application landscape modification. Understand the impact of outsourcing and IT cost savings strategies, and learn about the role of Application Portfolio Management (APM) in aligning IT initiatives with business objectives within the realm of EAM."
-summary: "Explore key changes in Enterprise Architecture (EA) management, including organizational restructuring, business process adaptation, and application landscape modification. Understand the impact of outsourcing and IT cost savings strategies, and learn about the role of Application Portfolio Management (APM) in aligning IT initiatives with business objectives within the realm of EAM."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 5.1 - Managing Changes of Enterprise Architecture
+description: Explore key changes in Enterprise Architecture (EA) management, including
+  organizational restructuring, business process adaptation, and application landscape
+  modification. Understand the impact of outsourcing and IT cost savings strategies,
+  and learn about the role of Application Portfolio Management (APM) in aligning IT
+  initiatives with business objectives within the realm of EAM.
+summary: Explore key changes in Enterprise Architecture (EA) management, including
+  organizational restructuring, business process adaptation, and application landscape
+  modification. Understand the impact of outsourcing and IT cost savings strategies,
+  and learn about the role of Application Portfolio Management (APM) in aligning IT
+  initiatives with business objectives within the realm of EAM.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 151
 toc: true
-seo:
-  title: "Chatper 5.1 - Managing Changes of Enterprise Architecture" # custom title (optional)
-  description: "Explore key changes in Enterprise Architecture (EA) management, including organizational restructuring, business process adaptation, and application landscape modification. Understand the impact of outsourcing and IT cost savings strategies, and learn about the role of Application Portfolio Management (APM) in aligning IT initiatives with business objectives within the realm of EAM." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-51-managing-changes-of-enterprise-architecture
 ---
+
 
 ## Managing Changes of Enterprise Architecture
 

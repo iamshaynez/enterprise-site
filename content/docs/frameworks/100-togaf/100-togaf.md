@@ -1,22 +1,25 @@
 ---
-title: "TOGAF - The Open Group Architecture Framework"
-description: "Explore the latest TOGAF Standard, 10th Edition, the enterprise architecture framework that aligns business goals with IT objectives. Learn the benefits, new features, and how TOGAF certification can boost your career and enterprise efficiency. Perfect for IT architects and business strategists.."
-summary: "Explore the latest TOGAF Standard, 10th Edition, the enterprise architecture framework that aligns business goals with IT objectives. Learn the benefits, new features, and how TOGAF certification can boost your career and enterprise efficiency. Perfect for IT architects and business strategists."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: TOGAF - The Open Group Architecture Framework
+description: Explore the latest TOGAF Standard, 10th Edition, the enterprise architecture
+  framework that aligns business goals with IT objectives. Learn the benefits, new
+  features, and how TOGAF certification can boost your career and enterprise efficiency.
+  Perfect for IT architects and business strategists..
+summary: Explore the latest TOGAF Standard, 10th Edition, the enterprise architecture
+  framework that aligns business goals with IT objectives. Learn the benefits, new
+  features, and how TOGAF certification can boost your career and enterprise efficiency.
+  Perfect for IT architects and business strategists.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 200
 toc: true
-seo:
-  title: "TOGAF - The Open Group Architecture Framework" # custom title (optional)
-  description: "Explore the latest TOGAF Standard, 10th Edition, the enterprise architecture framework that aligns business goals with IT objectives. Learn the benefits, new features, and how TOGAF certification can boost your career and enterprise efficiency. Perfect for IT architects and business strategists." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: togaf-the-open-group-architecture-framework
 ---
+
 
 TOGAF, or The Open Group Architecture Framework, is a blueprint that guides businesses in aligning their objectives with their enterprise software development architecture. It's like a roadmap for efficiently creating and managing IT infrastructures that support the overarching goals of a business.
 

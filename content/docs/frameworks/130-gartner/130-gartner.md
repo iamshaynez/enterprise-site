@@ -1,22 +1,27 @@
 ---
-title: "Gartner's Enterprise Architecture Framework"
-description: "Discover Gartner's Enterprise Architecture Framework, a comprehensive guide for enterprise architects to align architecture with business goals. Learn about the framework's components, the importance of governance, and how Gartner's Magic Quadrant can evaluate technology providers. Explore the key steps and considerations for creating an effective enterprise architecture."
-summary: "Discover Gartner's Enterprise Architecture Framework, a comprehensive guide for enterprise architects to align architecture with business goals. Learn about the framework's components, the importance of governance, and how Gartner's Magic Quadrant can evaluate technology providers. Explore the key steps and considerations for creating an effective enterprise architecture."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Gartner's Enterprise Architecture Framework
+description: Discover Gartner's Enterprise Architecture Framework, a comprehensive
+  guide for enterprise architects to align architecture with business goals. Learn
+  about the framework's components, the importance of governance, and how Gartner's
+  Magic Quadrant can evaluate technology providers. Explore the key steps and considerations
+  for creating an effective enterprise architecture.
+summary: Discover Gartner's Enterprise Architecture Framework, a comprehensive guide
+  for enterprise architects to align architecture with business goals. Learn about
+  the framework's components, the importance of governance, and how Gartner's Magic
+  Quadrant can evaluate technology providers. Explore the key steps and considerations
+  for creating an effective enterprise architecture.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 230
 toc: true
-seo:
-  title: "Gartner's Enterprise Architecture Framework" # custom title (optional)
-  description: "Discover Gartner's Enterprise Architecture Framework, a comprehensive guide for enterprise architects to align architecture with business goals. Learn about the framework's components, the importance of governance, and how Gartner's Magic Quadrant can evaluate technology providers. Explore the key steps and considerations for creating an effective enterprise architecture." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: gartners-enterprise-architecture-framework
 ---
+
 
 # Simplifying Gartner's Enterprise Architecture Framework
 

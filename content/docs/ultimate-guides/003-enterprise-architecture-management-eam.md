@@ -1,22 +1,23 @@
 ---
-title: "Chatper 1.3 - Enterprise Architecture Management (EAM)"
-description: "Explore Enterprise Architecture Management (EAM): a strategic approach to align IT infrastructure with business goals. Learn methodologies, tools, and best practices for transitioning to optimal enterprise architecture."
-summary: "Explore Enterprise Architecture Management (EAM): a strategic approach to align IT infrastructure with business goals. Learn methodologies, tools, and best practices for transitioning to optimal enterprise architecture."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 1.3 - Enterprise Architecture Management (EAM)
+description: 'Explore Enterprise Architecture Management (EAM): a strategic approach
+  to align IT infrastructure with business goals. Learn methodologies, tools, and
+  best practices for transitioning to optimal enterprise architecture.'
+summary: 'Explore Enterprise Architecture Management (EAM): a strategic approach to
+  align IT infrastructure with business goals. Learn methodologies, tools, and best
+  practices for transitioning to optimal enterprise architecture.'
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 113
 toc: true
-seo:
-  title: "Enterprise Architecture Management (EAM)" # custom title (optional)
-  description: "Explore Enterprise Architecture Management (EAM): a strategic approach to align IT infrastructure with business goals. Learn methodologies, tools, and best practices for transitioning to optimal enterprise architecture." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-13-enterprise-architecture-management-eam
 ---
+
 
 ## Enterprise Architecture Management (EAM)
 

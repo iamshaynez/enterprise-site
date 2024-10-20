@@ -1,22 +1,21 @@
 ---
-title: "Chatper 2.1 - Business Processes Guide"
-description: "Explore Business process in business architecture of Enterprise Architecture Management (EAM)."
-summary: "Explore Business process in business architecture of Enterprise Architecture Management (EAM)."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 2.1 - Business Processes Guide
+description: Explore Business process in business architecture of Enterprise Architecture
+  Management (EAM).
+summary: Explore Business process in business architecture of Enterprise Architecture
+  Management (EAM).
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 121
 toc: true
-seo:
-  title: "Chatper 2.1 - Business Processes Guide" # custom title (optional)
-  description: "Explore Business process in business architecture of Enterprise Architecture Management (EAM)." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-21-business-processes-guide
 ---
+
 
 # Business Processes
 

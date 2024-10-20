@@ -1,22 +1,23 @@
 ---
-title: "Chatper 4.1 - Enterprise Architecture Analysis Goals"
-description: "Explore the vital objectives of Enterprise Architecture Analysis focusing on business-IT alignment, decision-making strategies, and the integration of applications within business frameworks to enhance operational efficiency and strategic planning."
-summary: "Explore the vital objectives of Enterprise Architecture Analysis focusing on business-IT alignment, decision-making strategies, and the integration of applications within business frameworks to enhance operational efficiency and strategic planning."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 4.1 - Enterprise Architecture Analysis Goals
+description: Explore the vital objectives of Enterprise Architecture Analysis focusing
+  on business-IT alignment, decision-making strategies, and the integration of applications
+  within business frameworks to enhance operational efficiency and strategic planning.
+summary: Explore the vital objectives of Enterprise Architecture Analysis focusing
+  on business-IT alignment, decision-making strategies, and the integration of applications
+  within business frameworks to enhance operational efficiency and strategic planning.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 141
 toc: true
-seo:
-  title: "Chatper 4.1 - Enterprise Architecture Analysis Goals" # custom title (optional)
-  description: "Explore the vital objectives of Enterprise Architecture Analysis focusing on business-IT alignment, decision-making strategies, and the integration of applications within business frameworks to enhance operational efficiency and strategic planning." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-41-enterprise-architecture-analysis-goals
 ---
+
 
 ## Enterprise Architecture Analysis Goals
 

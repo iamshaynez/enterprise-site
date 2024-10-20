@@ -1,22 +1,23 @@
 ---
-title: "The Ultimate Guide to Business Process Modeling"
-description: "A comprehensive guide to business process modeling (BPM) - a methodology for analyzing, designing, implementing and managing business processes to optimize efficiency, reduce costs, and achieve organizational goals."
-summary: "A comprehensive guide to business process modeling (BPM) - a methodology for analyzing, designing, implementing and managing business processes to optimize efficiency, reduce costs, and achieve organizational goals."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: The Ultimate Guide to Business Process Modeling
+description: A comprehensive guide to business process modeling (BPM) - a methodology
+  for analyzing, designing, implementing and managing business processes to optimize
+  efficiency, reduce costs, and achieve organizational goals.
+summary: A comprehensive guide to business process modeling (BPM) - a methodology
+  for analyzing, designing, implementing and managing business processes to optimize
+  efficiency, reduce costs, and achieve organizational goals.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 401
 toc: true
-seo:
-  title: "The Ultimate Guide to Business Process Modeling" # custom title (optional)
-  description: "A comprehensive guide to business process modeling (BPM) - a methodology for analyzing, designing, implementing and managing business processes to optimize efficiency, reduce costs, and achieve organizational goals." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: the-ultimate-guide-to-business-process-modeling
 ---
+
 
 # The Ultimate Guide to Business Process Modeling
 

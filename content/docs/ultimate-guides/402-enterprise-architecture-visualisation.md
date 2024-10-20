@@ -1,22 +1,29 @@
 ---
-title: "Chatper 4.2 - Enterprise Architecture Visualization"
-description: "Explore the critical role of Enterprise Architects in today's corporate IT with our in-depth look at the visualization of Enterprise Architecture (EA). Understand how architects create comprehensive architecture maps, known as viewpoints, using both manual and automated tools. Learn about the data collection process, structuring in an EA repository, and how visualization aids stakeholders in addressing their concerns within the company."
-summary: "Explore the critical role of Enterprise Architects in today's corporate IT with our in-depth look at the visualization of Enterprise Architecture (EA). Understand how architects create comprehensive architecture maps, known as viewpoints, using both manual and automated tools. Learn about the data collection process, structuring in an EA repository, and how visualization aids stakeholders in addressing their concerns within the company."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 4.2 - Enterprise Architecture Visualization
+description: Explore the critical role of Enterprise Architects in today's corporate
+  IT with our in-depth look at the visualization of Enterprise Architecture (EA).
+  Understand how architects create comprehensive architecture maps, known as viewpoints,
+  using both manual and automated tools. Learn about the data collection process,
+  structuring in an EA repository, and how visualization aids stakeholders in addressing
+  their concerns within the company.
+summary: Explore the critical role of Enterprise Architects in today's corporate IT
+  with our in-depth look at the visualization of Enterprise Architecture (EA). Understand
+  how architects create comprehensive architecture maps, known as viewpoints, using
+  both manual and automated tools. Learn about the data collection process, structuring
+  in an EA repository, and how visualization aids stakeholders in addressing their
+  concerns within the company.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 142
 toc: true
-seo:
-  title: "Chatper 4.2 - Enterprise Architecture Visualization" # custom title (optional)
-  description: "Explore the critical role of Enterprise Architects in today's corporate IT with our in-depth look at the visualization of Enterprise Architecture (EA). Understand how architects create comprehensive architecture maps, known as viewpoints, using both manual and automated tools. Learn about the data collection process, structuring in an EA repository, and how visualization aids stakeholders in addressing their concerns within the company." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-42-enterprise-architecture-visualization
 ---
+
 
 ## Enterprise Architecture Visualization
 

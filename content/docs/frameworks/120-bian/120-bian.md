@@ -1,22 +1,25 @@
 ---
-title: "BIAN - Banking Industry Architecture Network"
-description: "Explore the BIAN How-to Guide V7.0 for insights into standardized banking functions and service interactions. Learn how BIAN's approach to banking architecture promotes efficient software integration, operational efficiency, and the adoption of shared services in the banking industry."
-summary: "Explore the BIAN How-to Guide V7.0 for insights into standardized banking functions and service interactions. Learn how BIAN's approach to banking architecture promotes efficient software integration, operational efficiency, and the adoption of shared services in the banking industry."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: BIAN - Banking Industry Architecture Network
+description: Explore the BIAN How-to Guide V7.0 for insights into standardized banking
+  functions and service interactions. Learn how BIAN's approach to banking architecture
+  promotes efficient software integration, operational efficiency, and the adoption
+  of shared services in the banking industry.
+summary: Explore the BIAN How-to Guide V7.0 for insights into standardized banking
+  functions and service interactions. Learn how BIAN's approach to banking architecture
+  promotes efficient software integration, operational efficiency, and the adoption
+  of shared services in the banking industry.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 220
 toc: true
-seo:
-  title: "BIAN - Banking Industry Architecture Network" # custom title (optional)
-  description: "Explore the BIAN How-to Guide V7.0 for insights into standardized banking functions and service interactions. Learn how BIAN's approach to banking architecture promotes efficient software integration, operational efficiency, and the adoption of shared services in the banking industry." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: bian-banking-industry-architecture-network
 ---
+
 
 # Introduction to BIAN V7.0: A Comprehensive Guide
 

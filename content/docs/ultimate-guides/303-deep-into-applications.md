@@ -1,22 +1,25 @@
 ---
-title: "Chatper 3.3 - Dive into Application Details"
-description: "Explore the complexities of application ecosystems with our in-depth analysis of inter-application relationships and essential management properties. Understand the interdependencies and attributes critical for effective application management in today's interconnected digital environment."
-summary: "Explore the complexities of application ecosystems with our in-depth analysis of inter-application relationships and essential management properties. Understand the interdependencies and attributes critical for effective application management in today's interconnected digital environment."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 3.3 - Dive into Application Details
+description: Explore the complexities of application ecosystems with our in-depth
+  analysis of inter-application relationships and essential management properties.
+  Understand the interdependencies and attributes critical for effective application
+  management in today's interconnected digital environment.
+summary: Explore the complexities of application ecosystems with our in-depth analysis
+  of inter-application relationships and essential management properties. Understand
+  the interdependencies and attributes critical for effective application management
+  in today's interconnected digital environment.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 133
 toc: true
-seo:
-  title: "Chatper 3.3 - Dive into Application Details" # custom title (optional)
-  description: "Explore the complexities of application ecosystems with our in-depth analysis of inter-application relationships and essential management properties. Understand the interdependencies and attributes critical for effective application management in today's interconnected digital environment." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-33-dive-into-application-details
 ---
+
 
 ## Application Details
 

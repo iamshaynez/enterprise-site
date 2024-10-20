@@ -1,23 +1,25 @@
 ---
-title: "ArchiMate: An Enterprise Architecture Modeling Tool"
-description: "ArchiMate is an open standard enterprise architecture modeling language that enables architects to describe, analyze and visualize architecture. Learn about ArchiMate's 3 layers, integration with TOGAF, and benefits for decision-making and governance."
-summary: "ArchiMate is an open standard enterprise architecture modeling language that enables architects to describe, analyze and visualize architecture. Learn about ArchiMate's 3 layers, integration with TOGAF, and benefits for decision-making and governance."
-date: 2024-02-12T16:04:48+08:00
-lastmod: 2024-02-12T16:04:48+08:00
+title: 'ArchiMate: An Enterprise Architecture Modeling Tool'
+description: ArchiMate is an open standard enterprise architecture modeling language
+  that enables architects to describe, analyze and visualize architecture. Learn about
+  ArchiMate's 3 layers, integration with TOGAF, and benefits for decision-making and
+  governance.
+summary: ArchiMate is an open standard enterprise architecture modeling language that
+  enables architects to describe, analyze and visualize architecture. Learn about
+  ArchiMate's 3 layers, integration with TOGAF, and benefits for decision-making and
+  governance.
+date: 2024-02-12 16:04:48+08:00
+lastmod: 2024-02-12 16:04:48+08:00
 draft: false
-slug: archimate-modelling
+slug: archimate-an-enterprise-architecture-modeling-tool
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 321
 toc: true
-seo:
-  title: "ArchiMate: An Enterprise Architecture Modeling Tool" # custom title (optional)
-  description: "ArchiMate is an open standard enterprise architecture modeling language that enables architects to describe, analyze and visualize architecture. Learn about ArchiMate's 3 layers, integration with TOGAF, and benefits for decision-making and governance." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
 ---
+
 
 ![ArchiMate: An Enterprise Architecture Modeling Tool](https://cdn.sa.net/2024/02/12/RfBcXHOGh1rwtWi.png)
 

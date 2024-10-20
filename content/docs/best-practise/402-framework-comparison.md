@@ -1,23 +1,25 @@
 ---
-title: "Frameworks Comparison: TOGAF, ArchiMate, and Zachman"
-description: "Discover the intricacies of three prominent business architecture frameworks: TOGAF, ArchiMate, and Zachman. This comprehensive article compares and analyzes their features, benefits, and applications to help you find the best fit for your organization's needs."
-summary: "Discover the intricacies of three prominent business architecture frameworks: TOGAF, ArchiMate, and Zachman. This comprehensive article compares and analyzes their features, benefits, and applications to help you find the best fit for your organization's needs."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: 'Frameworks Comparison: TOGAF, ArchiMate, and Zachman'
+description: 'Discover the intricacies of three prominent business architecture frameworks:
+  TOGAF, ArchiMate, and Zachman. This comprehensive article compares and analyzes
+  their features, benefits, and applications to help you find the best fit for your
+  organization''s needs.'
+summary: 'Discover the intricacies of three prominent business architecture frameworks:
+  TOGAF, ArchiMate, and Zachman. This comprehensive article compares and analyzes
+  their features, benefits, and applications to help you find the best fit for your
+  organization''s needs.'
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 402
 toc: true
-slug: "business-architecture-frameworks-comparison-togaf-archimate-zachman"
-seo:
-  title: "Frameworks Comparison: TOGAF, ArchiMate, and Zachman" # custom title (optional)
-  description: "Discover the intricacies of three prominent business architecture frameworks: TOGAF, ArchiMate, and Zachman. This comprehensive article compares and analyzes their features, benefits, and applications to help you find the best fit for your organization's needs." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: frameworks-comparison-togaf-archimate-and-zachman
 ---
+
 
 # Unleashing the Power of Business Architecture Frameworks: TOGAF, ArchiMate, and Zachman Compared
 

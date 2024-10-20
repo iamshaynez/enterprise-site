@@ -1,22 +1,21 @@
 ---
-title: "ABOUT THIS SITE"
-description: "About what you can find in Enterprise Architecture Work website, overview of all the content."
-summary: "About what you can find in Enterprise Architecture Work website, overview of all the content."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: ABOUT THIS SITE
+description: About what you can find in Enterprise Architecture Work website, overview
+  of all the content.
+summary: About what you can find in Enterprise Architecture Work website, overview
+  of all the content.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 91
 toc: true
-seo:
-  title: "ABOUT THIS SITE" # custom title (optional)
-  description: "About what you can find in Enterprise Architecture Work website, overview of all the content." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: about-this-site
 ---
+
 
 ## About Me
 

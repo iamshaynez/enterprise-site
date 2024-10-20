@@ -1,22 +1,27 @@
 ---
-title: "Chatper 5.3 - Enterprise Architecture for Collaboration"
-description: "Explore collaborative enterprise architecture (EA) that transcends traditional top-down approaches. Discover the importance of integrating business knowledge, adopting agile methods, and focusing on providing tangible value through a flexible, stakeholder-centric EA methodology. Learn how to revamp your EA strategy to enhance business and IT alignment."
-summary: "Explore collaborative enterprise architecture (EA) that transcends traditional top-down approaches. Discover the importance of integrating business knowledge, adopting agile methods, and focusing on providing tangible value through a flexible, stakeholder-centric EA methodology. Learn how to revamp your EA strategy to enhance business and IT alignment."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 5.3 - Enterprise Architecture for Collaboration
+description: Explore collaborative enterprise architecture (EA) that transcends traditional
+  top-down approaches. Discover the importance of integrating business knowledge,
+  adopting agile methods, and focusing on providing tangible value through a flexible,
+  stakeholder-centric EA methodology. Learn how to revamp your EA strategy to enhance
+  business and IT alignment.
+summary: Explore collaborative enterprise architecture (EA) that transcends traditional
+  top-down approaches. Discover the importance of integrating business knowledge,
+  adopting agile methods, and focusing on providing tangible value through a flexible,
+  stakeholder-centric EA methodology. Learn how to revamp your EA strategy to enhance
+  business and IT alignment.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 153
 toc: true
-seo:
-  title: "Chatper 5.1 - Enterprise Architecture for Collaboration" # custom title (optional)
-  description: "Explore collaborative enterprise architecture (EA) that transcends traditional top-down approaches. Discover the importance of integrating business knowledge, adopting agile methods, and focusing on providing tangible value through a flexible, stakeholder-centric EA methodology. Learn how to revamp your EA strategy to enhance business and IT alignment." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-53-enterprise-architecture-for-collaboration
 ---
+
 
 ## Revamping Enterprise Architecture for Collaboration
 

@@ -1,22 +1,25 @@
 ---
-title: "Chatper 5.2 - Role and Organizational Structure of Enterprise Architects"
-description: "Explore the integral role of enterprise architects in shaping and implementing organizational change within EAM. Understand the interplay between business process evolution and application architecture, and discover current and future approaches to EA that blend governance with collaborative and service-oriented strategies."
-summary: "Explore the integral role of enterprise architects in shaping and implementing organizational change within EAM. Understand the interplay between business process evolution and application architecture, and discover current and future approaches to EA that blend governance with collaborative and service-oriented strategies."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 5.2 - Role and Organizational Structure of Enterprise Architects
+description: Explore the integral role of enterprise architects in shaping and implementing
+  organizational change within EAM. Understand the interplay between business process
+  evolution and application architecture, and discover current and future approaches
+  to EA that blend governance with collaborative and service-oriented strategies.
+summary: Explore the integral role of enterprise architects in shaping and implementing
+  organizational change within EAM. Understand the interplay between business process
+  evolution and application architecture, and discover current and future approaches
+  to EA that blend governance with collaborative and service-oriented strategies.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 152
 toc: true
-seo:
-  title: "Chatper 5.2 - Role and Organizational Structure of Enterprise Architects" # custom title (optional)
-  description: "Explore the integral role of enterprise architects in shaping and implementing organizational change within EAM. Understand the interplay between business process evolution and application architecture, and discover current and future approaches to EA that blend governance with collaborative and service-oriented strategies." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-52-role-and-organizational-structure-of-enterprise-architects
 ---
+
 
 ## Role and Organizational Structure of Enterprise Architects
 

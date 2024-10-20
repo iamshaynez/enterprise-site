@@ -1,22 +1,21 @@
 ---
-title: "Chatper 3.2 - Mapping Business Capabilities to an Ideal Application Landscape"
-description: "Explore how business capabilities drive the ideal IT landscape design for optimal business-IT alignment, emphasizing efficiency and automation support."
-summary: "Explore how business capabilities drive the ideal IT landscape design for optimal business-IT alignment, emphasizing efficiency and automation support."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 3.2 - Mapping Business Capabilities to an Ideal Application Landscape
+description: Explore how business capabilities drive the ideal IT landscape design
+  for optimal business-IT alignment, emphasizing efficiency and automation support.
+summary: Explore how business capabilities drive the ideal IT landscape design for
+  optimal business-IT alignment, emphasizing efficiency and automation support.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 132
 toc: true
-seo:
-  title: "Chatper 3.2 - Mapping Business Capabilities to an Ideal Application Landscape" # custom title (optional)
-  description: "Explore how business capabilities drive the ideal IT landscape design for optimal business-IT alignment, emphasizing efficiency and automation support." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-32-mapping-business-capabilities-to-an-ideal-application-landscape
 ---
+
 
 ## Mapping Business Capabilities to an Ideal Application Landscape
 

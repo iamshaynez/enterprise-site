@@ -1,22 +1,27 @@
 ---
-title: "Chatper 2.3 - Concepts of Business Architecture"
-description: "Explore key concepts of business architecture, including business capabilities, objects, motivation, strategy, and execution, in this comprehensive overview. Learn how internal and external drivers, vision, objectives, and KPIs shape business strategy and how the business model and execution plans translate into value creation and operational success."
-summary: "Explore key concepts of business architecture, including business capabilities, objects, motivation, strategy, and execution, in this comprehensive overview. Learn how internal and external drivers, vision, objectives, and KPIs shape business strategy and how the business model and execution plans translate into value creation and operational success."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 2.3 - Concepts of Business Architecture
+description: Explore key concepts of business architecture, including business capabilities,
+  objects, motivation, strategy, and execution, in this comprehensive overview. Learn
+  how internal and external drivers, vision, objectives, and KPIs shape business strategy
+  and how the business model and execution plans translate into value creation and
+  operational success.
+summary: Explore key concepts of business architecture, including business capabilities,
+  objects, motivation, strategy, and execution, in this comprehensive overview. Learn
+  how internal and external drivers, vision, objectives, and KPIs shape business strategy
+  and how the business model and execution plans translate into value creation and
+  operational success.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 123
 toc: true
-seo:
-  title: "Chatper 2.3 - Business Capability Mapping Guide" # custom title (optional)
-  description: "Explore key concepts of business architecture, including business capabilities, objects, motivation, strategy, and execution, in this comprehensive overview. Learn how internal and external drivers, vision, objectives, and KPIs shape business strategy and how the business model and execution plans translate into value creation and operational success." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-23-concepts-of-business-architecture
 ---
+
 
 ## Concepts of Business Architecture
 

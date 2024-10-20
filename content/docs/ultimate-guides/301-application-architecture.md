@@ -1,22 +1,27 @@
 ---
-title: "Chatper 3.1 - Enterprise Application Architecture"
-description: "Explore the integration of IT and business strategy through Enterprise Application Architecture (EAM). Understand the top-down approach to aligning application landscapes with business needs, how IT innovations influence business processes, and visualize complex software ecosystems. Discover how to map applications to business capabilities for an optimized, forward-looking enterprise IT strategy."
-summary: "Explore the integration of IT and business strategy through Enterprise Application Architecture (EAM). Understand the top-down approach to aligning application landscapes with business needs, how IT innovations influence business processes, and visualize complex software ecosystems. Discover how to map applications to business capabilities for an optimized, forward-looking enterprise IT strategy."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 3.1 - Enterprise Application Architecture
+description: Explore the integration of IT and business strategy through Enterprise
+  Application Architecture (EAM). Understand the top-down approach to aligning application
+  landscapes with business needs, how IT innovations influence business processes,
+  and visualize complex software ecosystems. Discover how to map applications to business
+  capabilities for an optimized, forward-looking enterprise IT strategy.
+summary: Explore the integration of IT and business strategy through Enterprise Application
+  Architecture (EAM). Understand the top-down approach to aligning application landscapes
+  with business needs, how IT innovations influence business processes, and visualize
+  complex software ecosystems. Discover how to map applications to business capabilities
+  for an optimized, forward-looking enterprise IT strategy.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 131
 toc: true
-seo:
-  title: "Chatper 3.1 - Enterprise Application Architecture" # custom title (optional)
-  description: "Explore the integration of IT and business strategy through Enterprise Application Architecture (EAM). Understand the top-down approach to aligning application landscapes with business needs, how IT innovations influence business processes, and visualize complex software ecosystems. Discover how to map applications to business capabilities for an optimized, forward-looking enterprise IT strategy." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-31-enterprise-application-architecture
 ---
+
 
 ## Enterprise Application Architecture
 

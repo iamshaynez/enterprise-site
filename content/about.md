@@ -1,21 +1,22 @@
 ---
-title: "About Us"
-description: "Explore the pinnacle of Enterprise Architecture (EA) knowledge with over 20 years of expert guidance. Join our community for in-depth articles, expert interviews, case studies, and the latest EA tools and frameworks."
-summary: "Explore the pinnacle of Enterprise Architecture (EA) knowledge with over 20 years of expert guidance. Join our community for in-depth articles, expert interviews, case studies, and the latest EA tools and frameworks."
-date: 2023-09-07T17:19:07+02:00
-lastmod: 2023-09-07T17:19:07+02:00
+title: About Us
+description: Explore the pinnacle of Enterprise Architecture (EA) knowledge with over
+  20 years of expert guidance. Join our community for in-depth articles, expert interviews,
+  case studies, and the latest EA tools and frameworks.
+summary: Explore the pinnacle of Enterprise Architecture (EA) knowledge with over
+  20 years of expert guidance. Join our community for in-depth articles, expert interviews,
+  case studies, and the latest EA tools and frameworks.
+date: 2023-09-07 17:19:07+02:00
+lastmod: 2023-09-07 17:19:07+02:00
 draft: false
-type: "legal"
-seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+type: legal
+slug: about-us
 ---
+
 
 # About Us
 
-Welcome to [**Enterprise Architecture Work**]], your top source for expert insight and guidance on Enterprise Architecture. 
+Welcome to [**Enterprise Architecture Work**], your top source for expert insight and guidance on Enterprise Architecture. 
 
 With over 20 years of experience working in Enterprise Architecture at a Fortune 500 company, I founded this site to share my passion and knowledge with fellow practitioners. 
 

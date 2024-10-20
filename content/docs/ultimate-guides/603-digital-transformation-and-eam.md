@@ -1,22 +1,29 @@
 ---
-title: "Chatper 6.3 - Digital Transformation and Enterprise Architecture"
-description: "Explore the essence of Digital Transformation, a synergy of strategy, technology, and human innovation. Discover how SMACIT technologies and AI foster corporate innovation, drive operational improvements, and shape new business models. Learn how effective digital transformation aligns with business strategies, requires radical commitment, and is powered by skilled, customer-centric teams. Understand the parallels with EAM, emphasizing a business-driven approach for sustainable change."
-summary: "Explore the essence of Digital Transformation, a synergy of strategy, technology, and human innovation. Discover how SMACIT technologies and AI foster corporate innovation, drive operational improvements, and shape new business models. Learn how effective digital transformation aligns with business strategies, requires radical commitment, and is powered by skilled, customer-centric teams. Understand the parallels with EAM, emphasizing a business-driven approach for sustainable change."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 6.3 - Digital Transformation and Enterprise Architecture
+description: Explore the essence of Digital Transformation, a synergy of strategy,
+  technology, and human innovation. Discover how SMACIT technologies and AI foster
+  corporate innovation, drive operational improvements, and shape new business models.
+  Learn how effective digital transformation aligns with business strategies, requires
+  radical commitment, and is powered by skilled, customer-centric teams. Understand
+  the parallels with EAM, emphasizing a business-driven approach for sustainable change.
+summary: Explore the essence of Digital Transformation, a synergy of strategy, technology,
+  and human innovation. Discover how SMACIT technologies and AI foster corporate innovation,
+  drive operational improvements, and shape new business models. Learn how effective
+  digital transformation aligns with business strategies, requires radical commitment,
+  and is powered by skilled, customer-centric teams. Understand the parallels with
+  EAM, emphasizing a business-driven approach for sustainable change.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 163
 toc: true
-seo:
-  title: "Chatper 6.3 - Digital Transformation and Enterprise Architecture" # custom title (optional)
-  description: "Explore the essence of Digital Transformation, a synergy of strategy, technology, and human innovation. Discover how SMACIT technologies and AI foster corporate innovation, drive operational improvements, and shape new business models. Learn how effective digital transformation aligns with business strategies, requires radical commitment, and is powered by skilled, customer-centric teams. Understand the parallels with EAM, emphasizing a business-driven approach for sustainable change." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-63-digital-transformation-and-enterprise-architecture
 ---
+
 
 ## Digital Transformation Overview
 

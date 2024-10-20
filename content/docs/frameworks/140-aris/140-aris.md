@@ -1,22 +1,23 @@
 ---
-title: "ARIS from SoftwareAG"
-description: "ARIS is a powerful business process management software that enables modeling, analysis and optimization of processes. Learn about its components, benefits, FAQs and how ARIS revolutionizes efficiency."
-summary: "ARIS is a powerful business process management software that enables modeling, analysis and optimization of processes. Learn about its components, benefits, FAQs and how ARIS revolutionizes efficiency."
-date: 2024-02-01T16:04:48+02:00
-lastmod: 2024-02-01T16:04:48+02:00
+title: ARIS from SoftwareAG
+description: ARIS is a powerful business process management software that enables
+  modeling, analysis and optimization of processes. Learn about its components, benefits,
+  FAQs and how ARIS revolutionizes efficiency.
+summary: ARIS is a powerful business process management software that enables modeling,
+  analysis and optimization of processes. Learn about its components, benefits, FAQs
+  and how ARIS revolutionizes efficiency.
+date: 2024-02-01 16:04:48+02:00
+lastmod: 2024-02-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 240
 toc: true
-seo:
-  title: "ARIS from SoftwareAG" # custom title (optional)
-  description: "ARIS is a powerful business process management software that enables modeling, analysis and optimization of processes. Learn about its components, benefits, FAQs and how ARIS revolutionizes efficiency." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: aris-from-softwareag
 ---
+
 
 # ARIS from SoftwareAG Overview
 

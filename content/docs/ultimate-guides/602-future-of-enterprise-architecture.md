@@ -1,22 +1,23 @@
 ---
-title: "Chatper 6.2 - Future Research Directions in Enterprise Architecture"
-description: "Explore the future of Enterprise Architecture (EA) with research topics including Cloud Computing, Agile EA, Sustainability, Smart Machines, IoT, Big Data, Entrepreneurship, Complexity Theory, and the benefits and visualization of EAM."
-summary: "Explore the future of Enterprise Architecture (EA) with research topics including Cloud Computing, Agile EA, Sustainability, Smart Machines, IoT, Big Data, Entrepreneurship, Complexity Theory, and the benefits and visualization of EAM."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Chatper 6.2 - Future Research Directions in Enterprise Architecture
+description: Explore the future of Enterprise Architecture (EA) with research topics
+  including Cloud Computing, Agile EA, Sustainability, Smart Machines, IoT, Big Data,
+  Entrepreneurship, Complexity Theory, and the benefits and visualization of EAM.
+summary: Explore the future of Enterprise Architecture (EA) with research topics including
+  Cloud Computing, Agile EA, Sustainability, Smart Machines, IoT, Big Data, Entrepreneurship,
+  Complexity Theory, and the benefits and visualization of EAM.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 162
 toc: true
-seo:
-  title: "Chatper 6.2 - Future Research Directions in Enterprise Architecture" # custom title (optional)
-  description: "Explore the future of Enterprise Architecture (EA) with research topics including Cloud Computing, Agile EA, Sustainability, Smart Machines, IoT, Big Data, Entrepreneurship, Complexity Theory, and the benefits and visualization of EAM." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: chatper-62-future-research-directions-in-enterprise-architecture
 ---
+
 
 ## Future Research Directions in Enterprise Architecture
 

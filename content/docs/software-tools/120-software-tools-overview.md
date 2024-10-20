@@ -1,23 +1,23 @@
 ---
-title: "Enterprise Architecture Software Tools: Choosing the Right Freeware"
-description: "This article explores enterprise architecture software tools, comparing freeware vs paid options. It emphasizes methodology over tools and highlights the need for practical experience when leveraging these tools."
-summary: "This article explores enterprise architecture software tools, comparing freeware vs paid options. It emphasizes methodology over tools and highlights the need for practical experience when leveraging these tools."
-date: 2024-02-12T16:04:48+08:00
-lastmod: 2024-02-12T16:04:48+08:00
+title: 'Enterprise Architecture Software Tools: Choosing the Right Freeware'
+description: This article explores enterprise architecture software tools, comparing
+  freeware vs paid options. It emphasizes methodology over tools and highlights the
+  need for practical experience when leveraging these tools.
+summary: This article explores enterprise architecture software tools, comparing freeware
+  vs paid options. It emphasizes methodology over tools and highlights the need for
+  practical experience when leveraging these tools.
+date: 2024-02-12 16:04:48+08:00
+lastmod: 2024-02-12 16:04:48+08:00
 draft: false
-slug: enterprise-architecture-software-tools-choosing-right-freeware
+slug: enterprise-architecture-software-tools-choosing-the-right-freeware
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 320
 toc: true
-seo:
-  title: "Enterprise Architecture Software Tools" # custom title (optional)
-  description: "This article explores enterprise architecture software tools, comparing freeware vs paid options. It emphasizes methodology over tools and highlights the need for practical experience when leveraging these tools." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
 ---
+
 
 ## Introduction
 

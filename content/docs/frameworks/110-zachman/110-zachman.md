@@ -1,22 +1,27 @@
 ---
-title: "Zachman - A DEFINITIVE GUIDE"
-description: "Explore the Zachman Framework for Enterprise Architecture, a strategic schema for organizing complex enterprise structures. Understand the ontology vs. methodology and how this framework provides a multi-perspective approach to answering key business questions. Discover the structure, rules, and certification levels of the Zachman approach and learn how it compares to TOGAF."
-summary: "Explore the Zachman Framework for Enterprise Architecture, a strategic schema for organizing complex enterprise structures. Understand the ontology vs. methodology and how this framework provides a multi-perspective approach to answering key business questions. Discover the structure, rules, and certification levels of the Zachman approach and learn how it compares to TOGAF."
-date: 2024-01-01T16:04:48+02:00
-lastmod: 2024-01-01T16:04:48+02:00
+title: Zachman - A DEFINITIVE GUIDE
+description: Explore the Zachman Framework for Enterprise Architecture, a strategic
+  schema for organizing complex enterprise structures. Understand the ontology vs.
+  methodology and how this framework provides a multi-perspective approach to answering
+  key business questions. Discover the structure, rules, and certification levels
+  of the Zachman approach and learn how it compares to TOGAF.
+summary: Explore the Zachman Framework for Enterprise Architecture, a strategic schema
+  for organizing complex enterprise structures. Understand the ontology vs. methodology
+  and how this framework provides a multi-perspective approach to answering key business
+  questions. Discover the structure, rules, and certification levels of the Zachman
+  approach and learn how it compares to TOGAF.
+date: 2024-01-01 16:04:48+02:00
+lastmod: 2024-01-01 16:04:48+02:00
 draft: false
 menu:
   docs:
-    parent: ""
-    identifier: ""
+    parent: ''
+    identifier: ''
 weight: 210
 toc: true
-seo:
-  title: "Zachman - A DEFINITIVE GUIDE" # custom title (optional)
-  description: "Explore the Zachman Framework for Enterprise Architecture, a strategic schema for organizing complex enterprise structures. Understand the ontology vs. methodology and how this framework provides a multi-perspective approach to answering key business questions. Discover the structure, rules, and certification levels of the Zachman approach and learn how it compares to TOGAF." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+slug: zachman-a-definitive-guide
 ---
+
 
 # The Zachman Framework Guide
 
